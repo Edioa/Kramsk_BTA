@@ -1,0 +1,655 @@
+[[paintings]]
+title = "Kirkman"
+artist = "Edioa"
+texture = "minecraft:art/kirkman"
+[paintings.dimensions]
+width = 4
+height = 4
+
+[[paintings]]
+title = "Fanum"
+artist = "Edioa"
+texture = "minecraft:art/fanum"
+[paintings.dimensions]
+width = 3
+height = 3
+
+[[paintings]]
+title = "Brazil"
+artist = "Edioa"
+texture = "minecraft:art/brazil"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Stuu"
+artist = "Edioa"
+texture = "minecraft:art/stuu"
+[paintings.dimensions]
+width = 2
+height = 1
+
+[[paintings]]
+title = "Sperma 1"
+artist = "Edioa"
+texture = "minecraft:art/sperma1"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 2"
+artist = "Edioa"
+texture = "minecraft:art/sperma2"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 3"
+artist = "Edioa"
+texture = "minecraft:art/sperma3"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Loss"
+artist = "Edioa"
+texture = "minecraft:art/loss"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Felipe"
+artist = "Edioa"
+texture = "minecraft:art/felipe"
+[paintings.dimensions]
+width = 3
+height = 2
+
+[[paintings]]
+title = "Kirk"
+artist = "Edioa"
+texture = "minecraft:art/kirk"
+[paintings.dimensions]
+width = 2
+height = 2
+
+[[paintings]]
+title = "Whistle"
+artist = "Edioa"
+texture = "minecraft:art/whistle"
+[paintings.dimensions]
+width = 4
+height = 2
+
+[[paintings]]
+title = "Karta admina"
+artist = "Edioa"
+texture = "minecraft:art/lgbt"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "WhatsApp Gordon"
+artist = "Edioa"
+texture = "minecraft:art/gordon"
+[paintings.dimensions]
+width = 1
+height = 2
+
+[[paintings]]
+title = "Ubunut"
+artist = "Edioa"
+texture = "minecraft:art/ubunut"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Grzegorz Wolnyczłowiek"
+artist = "Edioa"
+texture = "minecraft:art/grzegorz"
+[paintings.dimensions]
+width = 1
+height = 2
+
+[[paintings]]
+title = "Kramsk"
+artist = "My wszyscy <3"
+texture = "minecraft:art/kramsk"
+[paintings.dimensions]
+width = 5
+height = 5
+
+[[paintings]]
+title = "Cwel"
+artist = "Edioa"
+texture = "minecraft:art/cwel"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Leszek free"
+artist = "Edioa"
+texture = "minecraft:art/lech"
+[paintings.dimensions]
+width = 2
+height = 1
+
+[[paintings]]
+title = "That's my thumbnail"
+artist = "Edioa"
+texture = "minecraft:art/thumbnail"
+[paintings.dimensions]
+width = 4
+height = 3
+
+[[paintings]]
+title = "Ja 27 listopada 2026 roku o godzinie 20:16"
+artist = "Edioa"
+texture = "minecraft:art/minion"
+[paintings.dimensions]
+width = 2
+height = 2
+
+[[paintings]]
+title = "Pies Kamila"
+artist = "Edioa"
+texture = "minecraft:art/pieskamila"
+[paintings.dimensions]
+width = 2
+height = 2
+
+[[paintings]]
+title = "Kirksztof"
+artist = "Edioa"
+texture = "minecraft:art/kirksztof"
+[paintings.dimensions]
+width = 2
+height = 2
+
+[[paintings]]
+title = "Gwara Kramska"
+artist = "Edioa"
+texture = "minecraft:art/gwara"
+[paintings.dimensions]
+width = 3
+height = 4
+
+[[paintings]]
+title = "Memcem"
+artist = "Edioa"
+texture = "minecraft:art/memcem"
+[paintings.dimensions]
+width = 3
+height = 4
+
+[[paintings]]
+title = "Sperma 4"
+artist = "Edioa"
+texture = "minecraft:art/sperma4"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Chudbob Soypants"
+artist = "Edioa"
+texture = "minecraft:art/chudbob"
+[paintings.dimensions]
+width = 3
+height = 3
+
+[[paintings]]
+title = "Tusk"
+artist = "Edioa"
+texture = "minecraft:art/tusk"
+[paintings.dimensions]
+width = 3
+height = 4
+
+[[paintings]]
+title = "Sperma Streak"
+artist = "Edioa"
+texture = "minecraft:art/spermastreak"
+[paintings.dimensions]
+width = 3
+height = 3
+
+[[paintings]]
+title = "Kiciuś :3"
+artist = "Edioa"
+texture = "minecraft:art/kicius"
+[paintings.dimensions]
+width = 3
+height = 3
+
+[[paintings]]
+title = "Agrotusknia"
+artist = "Edioa"
+texture = "minecraft:art/agrotusknia"
+[paintings.dimensions]
+width = 4
+height = 2
+
+[[paintings]]
+title = "Żurek"
+artist = "Edioa"
+texture = "minecraft:art/zurek"
+[paintings.dimensions]
+width = 2
+height = 3
+
+[[paintings]]
+title = "Goyim"
+artist = "Edioa"
+texture = "minecraft:art/goy"
+[paintings.dimensions]
+width = 2
+height = 1
+
+[[paintings]]
+title = "Gem alert"
+artist = "Edioa"
+texture = "minecraft:art/gemalert"
+[paintings.dimensions]
+width = 3
+height = 2
+
+[[paintings]]
+title = "MrBeast"
+artist = "Edioa"
+texture = "minecraft:art/mrbeast"
+[paintings.dimensions]
+width = 3
+height = 2
+
+[[paintings]]
+title = "Zandberg"
+artist = "Edioa"
+texture = "minecraft:art/zandberg"
+[paintings.dimensions]
+width = 2
+height = 2
+
+[[paintings]]
+title = "Synek"
+artist = "Edioa"
+texture = "minecraft:art/krik"
+[paintings.dimensions]
+width = 3
+height = 5
+
+[[paintings]]
+title = "Gofr"
+artist = "Edioa"
+texture = "minecraft:art/gofr"
+[paintings.dimensions]
+width = 2
+height = 2
+
+[[paintings]]
+title = "Tuskinator"
+artist = "Edioa"
+texture = "minecraft:art/tiesk"
+[paintings.dimensions]
+width = 4
+height = 2
+
+[[paintings]]
+title = "That's my thumbnail again!"
+artist = "Edioa"
+texture = "minecraft:art/thumbnaill"
+[paintings.dimensions]
+width = 4
+height = 2
+
+[[paintings]]
+title = "Kramsk SMP"
+artist = "Edioa"
+texture = "minecraft:art/krunsksmp"
+[paintings.dimensions]
+width = 10
+height = 2
+
+[[paintings]]
+title = "Sperma 5"
+artist = "Edioa"
+texture = "minecraft:art/sperma5"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 6"
+artist = "Edioa"
+texture = "minecraft:art/sperma6"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 7"
+artist = "Edioa"
+texture = "minecraft:art/sperma7"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 8"
+artist = "Edioa"
+texture = "minecraft:art/sperma8"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 9"
+artist = "Edioa"
+texture = "minecraft:art/sperma9"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 10"
+artist = "Edioa"
+texture = "minecraft:art/sperma10"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 11"
+artist = "Edioa"
+texture = "minecraft:art/sperma11"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 12"
+artist = "Edioa"
+texture = "minecraft:art/sperma12"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 13"
+artist = "Edioa"
+texture = "minecraft:art/sperma13"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 14"
+artist = "Edioa"
+texture = "minecraft:art/sperma14"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 15"
+artist = "Edioa"
+texture = "minecraft:art/sperma15"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 16"
+artist = "Edioa"
+texture = "minecraft:art/sperma16"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 17"
+artist = "Edioa"
+texture = "minecraft:art/sperma17"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 18"
+artist = "Edioa"
+texture = "minecraft:art/sperma18"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 19"
+artist = "Edioa"
+texture = "minecraft:art/sperma19"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 20"
+artist = "Edioa"
+texture = "minecraft:art/sperma20"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 21"
+artist = "Edioa"
+texture = "minecraft:art/sperma21"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 22"
+artist = "Edioa"
+texture = "minecraft:art/sperma22"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 23"
+artist = "Edioa"
+texture = "minecraft:art/sperma23"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 24"
+artist = "Edioa"
+texture = "minecraft:art/sperma24"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 25"
+artist = "Edioa"
+texture = "minecraft:art/sperma25"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 26"
+artist = "Edioa"
+texture = "minecraft:art/sperma26"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 27"
+artist = "Edioa"
+texture = "minecraft:art/sperma27"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 28"
+artist = "Edioa"
+texture = "minecraft:art/sperma28"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 29"
+artist = "Edioa"
+texture = "minecraft:art/sperma29"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 30"
+artist = "Edioa"
+texture = "minecraft:art/sperma30"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 31"
+artist = "Edioa"
+texture = "minecraft:art/sperma31"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 32"
+artist = "Edioa"
+texture = "minecraft:art/sperma32"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 33"
+artist = "Edioa"
+texture = "minecraft:art/sperma33"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 34"
+artist = "Edioa"
+texture = "minecraft:art/sperma34"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 35"
+artist = "Edioa"
+texture = "minecraft:art/sperma35"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 36"
+artist = "Edioa"
+texture = "minecraft:art/sperma36"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 37"
+artist = "Edioa"
+texture = "minecraft:art/sperma37"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 38"
+artist = "Edioa"
+texture = "minecraft:art/sperma38"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 39"
+artist = "Edioa"
+texture = "minecraft:art/sperma39"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Sperma 40"
+artist = "Edioa"
+texture = "minecraft:art/sperma40"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "Jaś"
+artist = "Edioa"
+texture = "minecraft:art/jas"
+[paintings.dimensions]
+width = 5
+height = 2
+
+[[paintings]]
+title = "Brzozy"
+artist = "Edioa"
+texture = "minecraft:art/brzozy"
+[paintings.dimensions]
+width = 3
+height = 2
+
+[[paintings]]
+title = "Lech free"
+artist = "Edioa"
+texture = "minecraft:art/leszek"
+[paintings.dimensions]
+width = 4
+height = 2
+
+[[paintings]]
+title = "Racism"
+artist = "Edioa"
+texture = "minecraft:art/racism"
+[paintings.dimensions]
+width = 1
+height = 1
+
+[[paintings]]
+title = "A love letter from Kamilek <3"
+artist = "Edioa"
+texture = "minecraft:art/kamilek"
+[paintings.dimensions]
+width = 2
+height = 4
+
+[[paintings]]
+title = "Nothing ever happens"
+artist = "Edioa"
+texture = "minecraft:art/nothing"
+[paintings.dimensions]
+width = 4
+height = 2
